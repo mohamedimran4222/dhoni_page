@@ -1,0 +1,41 @@
+nav {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+ul {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 30%;
+}
+a {
+  text-decoration: none;
+  font-size: 20px;
+  color: white;
+}
+body {
+  background-image: url(dhoni.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+p {
+  color: white;
+  text-align: justify;
+  line-height: 50px;
+  padding: 40px;
+  font-size: 20px;
+  background-color: rgba(255, 255, 255, 0.205);
+}
+img {
+  padding-top: 20px;
+}
+ol {
+  color: white;
+  line-height: 40px;
+  padding-left: 200px;
+  padding-top: 70px;
+}
+.vedio {
+  color: white;
+}
